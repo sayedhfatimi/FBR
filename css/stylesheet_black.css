@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+#headercontainer {
+	background-color: #000000;
+}
+#rightcontent {
+	color: #000000;
+}
+.spandot {
+	color: #C4C4C4;
+}
+.button:hover {
+	background-color: #000000;
+	border-top-color: #000000;
+	border-bottom-color: #000000;
+}
+.postheader {
+	border-bottom-color: #000000;
+}
+.postbottom {
+	border-top-color: #000000;
+	border-bottom-color: #000000;
+}
+.textbox {
+	 border: #000000;
+}
+.admin_menu li.alt {
+	background:#333333;
+}
+.admin_menu li {
+	background:#000000;
+}
+div.pagination a {
+	border: #DDDDDD;
+	color: #999999;
+}
+div.pagination a:hover, div.pagination a:active {
+	border: #999999;
+}
+div.pagination span.current {
+	border: #999999;
+	background-color: #999999;
+}

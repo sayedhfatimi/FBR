@@ -1,0 +1,56 @@
+﻿@charset "utf-8";
+/* CSS Document */
+#headercontainer {
+	background-color: #6E0000;
+}
+#rightcontent {
+	color: #6E0000;
+}
+.spandot {
+	color: #C40000;
+}
+.button:hover {
+	background-color: #6E0000;
+	border-top-color: #6E0000;
+	border-bottom-color: #6E0000;
+}
+.postheader {
+	border-bottom-color: #6E0000;
+}
+.postbottom {
+	border-top-color: #6E0000;
+	border-bottom-color: #6E0000;
+}
+.uibutton.confirm {
+    border-color: #7E2929 #7E2929 #6E1A1A;
+    color: #fff;
+    background-color: #A85B5B;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#AD6363), to(#A75858));
+    background-image: -moz-linear-gradient(#AD6363, #A75858);
+    background-image: -o-linear-gradient(#AD6363, #A75858);
+    background-image: linear-gradient(#AD6363, #A75858);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#AD6363', EndColorStr='#A75858'); /* for IE 6 - 9 */
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #C28A8A;
+    -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #C28A8A;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), inset 0 1px 0 #C28A8A;
+}
+.textbox {
+	 border: #6E0000;
+}
+.admin_menu li.alt {
+	background:#990000;
+}
+.admin_menu li {
+	background:#6E0000;
+}
+div.pagination a {
+	border: #DDAAAA;
+	color: #990000;
+}
+div.pagination a:hover, div.pagination a:active {
+	border: #990000;
+}
+div.pagination span.current {
+	border: #990000;
+	background-color: #990000;
+}
